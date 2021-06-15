@@ -1,0 +1,23 @@
+.bloc1{
+    width:243px;
+    height: 70px;
+    margin-bottom: 10px;
+    border:lawngreen 1px solid;
+    border-radius: 5px;
+    background-color:lightcyan;
+    padding-right: 5px;
+}
+.input1{
+    width:235px;
+    border: none;
+    background-color:lightcyan;
+}
+.right{
+text-align: right;
+}
+.top{
+    /*padding-top: 20px;*/
+}
+.height{
+    height:30px;
+}

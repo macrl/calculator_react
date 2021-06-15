@@ -1,0 +1,55 @@
+.button1{
+    width:60px;
+    height: 30px;
+    border: blue 1px solid;
+    border-radius: 2px;
+    color: darkolivegreen;
+    background-color:lightskyblue;
+    margin-right: 2px;
+    cursor: pointer;
+}
+.button2{
+    width:246px;
+    height: 30px;
+    border: grey 1px solid;
+    border-radius: 2px;
+    color: darkolivegreen;
+    background-color: silver;
+    margin-right: 2px;
+    cursor: pointer;
+}
+.button3{
+    width:60px;
+    height: 30px;
+    border: orangered 1px solid;
+    border-radius: 2px;
+    color: darkolivegreen;
+    background-color:tomato;
+    margin-right: 2px;
+    cursor: pointer;
+}
+.button4{
+    width:60px;
+    height: 30px;
+    border: grey 1px solid;
+    border-radius: 2px;
+    color: darkolivegreen;
+    background-color: silver;
+    margin-right: 2px;
+    cursor: pointer; 
+}
+.button1:hover{
+    background-color: blue;
+    color:white; 
+    font-weight: bold; 
+}
+.button2:hover,.button4:hover{
+    background-color:#808080;
+    color: white;
+    font-weight: bold;
+}
+.button3:hover{
+    background-color:#800000;
+    color:white; 
+    font-weight: bold; 
+}

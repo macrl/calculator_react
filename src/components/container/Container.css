@@ -1,0 +1,14 @@
+.container1{
+    width: 250px;
+    height: 245px;
+    background-color:khaki;
+    border: deepskyblue 1px solid;
+    padding: 10px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.top{
+    margin-top: 2px;;
+}
